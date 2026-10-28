@@ -1,0 +1,19 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# editor swap / backup files
+*.swp
+*.swo
+*.swn
+.*.sw?
+*.un~
+
+# OS junk
+.DS_Store
+Thumbs.db
